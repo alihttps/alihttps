@@ -1,45 +1,4 @@
 <h1 align="center">Hi, I'm Ali 👋</h1>
-### Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🔹 CPP Pool
-
-Collection of all C++ modules from the 42 curriculum.
-
-- Templates
-- Inheritance
-- Polymorphism
-- Containers
-- Type casting
-- OOP fundamentals
-
-➡️ [View Repository](https://github.com/alihttps/cpp-pool)
-
----
-
-### 🔹 Minishell
-
-A custom UNIX shell built in C.
-
-Features:
-- Pipes
-- Redirections
-- Environment variables
-- Builtins
-- Process management
-
-➡️ [View Repository](https://github.com/alihttps/minishell)
-
----
-
 ### 🔹 Cub3D
 
 Raycasting engine inspired by Wolfenstein 3D.
@@ -69,14 +28,47 @@ Features:
 
 ---
 
+### 🔹 ft_transcendence
+
+A full-stack multiplayer web application developed as part of the 42 curriculum.
+
+Features:
+- Real-time multiplayer Pong game
+- Authentication system
+- User profiles and friends
+- Matchmaking and chat
+- Full-stack web architecture
+
+➡️ [View Repository](https://github.com/alihttps/ft_transcendence)
+
+---
+
+### 🔹 Rihla.tech
+
+Co-developed a SaaS platform focused on modern web solutions and digital experiences.
+
+Features:
+- Modern responsive frontend
+- SaaS-oriented architecture
+- Web automation and integrations
+- Scalable deployment approach
+
+➡️ [Visit Website](https://rihla.tech)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihttps&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihttps&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihttps&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihttps&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alihttps&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -85,17 +77,3 @@ Features:
 
 - LinkedIn: https://www.linkedin.com/in/ali-ait-bouih-6bbb0a378/
 - Email: aliaitbih2@gmail.com
-<!--
-**alihttps/alihttps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
