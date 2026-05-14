@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Ali 👋</h1>
+
 ### 🔹 Cub3D
 
 Raycasting engine inspired by Wolfenstein 3D.
@@ -28,22 +29,7 @@ Features:
 
 ---
 
-### 🔹 ft_transcendence
-
-A full-stack multiplayer web application developed as part of the 42 curriculum.
-
-Features:
-- Real-time multiplayer Pong game
-- Authentication system
-- User profiles and friends
-- Matchmaking and chat
-- Full-stack web architecture
-
-➡️ [View Repository](https://github.com/alihttps/ft_transcendence)
-
----
-
-### 🔹 Rihla.tech
+### 🔹 ft_transcendence / Rihla.tech
 
 Co-developed a SaaS platform focused on modern web solutions and digital experiences.
 
@@ -52,24 +38,9 @@ Features:
 - SaaS-oriented architecture
 - Web automation and integrations
 - Scalable deployment approach
-
+- 
+➡️ [View Repository](https://github.com/alihttps/ft_transcendence)
 ➡️ [Visit Website](https://rihla.tech)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihttps&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihttps&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alihttps&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
