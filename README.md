@@ -40,7 +40,8 @@ Features:
 - Scalable deployment approach
 
   
-➡️ [View Repository](https://github.com/alihttps/ft_transcendance-42)
+➡️ [View Repository](https://github.com/anonymousc/ft_transcendance-42)
+
 ➡️ [Visit Website](https://rihla.tech)
 
 ---
