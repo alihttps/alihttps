@@ -1,5 +1,37 @@
 <h1 align="center">Hi, I'm Ali </h1>
 
+##  Featured Projects
+
+### 🔹 CPP Pool
+
+Collection of all C++ modules from the 42 curriculum.
+
+- Templates
+- Inheritance
+- Polymorphism
+- Containers
+- Type casting
+- OOP fundamentals
+
+➡️ [View Repository](https://github.com/alihttps/cpp-pool)
+
+---
+
+### 🔹 Minishell
+
+A custom UNIX shell built in C.
+
+Features:
+- Pipes
+- Redirections
+- Environment variables
+- Builtins
+- Process management
+
+➡️ [View Repository](https://github.com/alihttps/minishell)
+
+---
+
 ### 🔹 Cub3D
 
 Raycasting engine inspired by Wolfenstein 3D.
