@@ -51,8 +51,6 @@ Features:
 - LinkedIn: https://www.linkedin.com/in/ali-ait-bouih-6bbb0a378/
 - Email: aliaitbih2@gmail.com
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/alihttps/alihttps/output/github-contribution-grid-snake.svg" />
 </p>
