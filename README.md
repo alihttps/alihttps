@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ali 👋</h1>
+<h1 align="center">Hi, I'm Ali </h1>
 
 ### 🔹 Cub3D
 
